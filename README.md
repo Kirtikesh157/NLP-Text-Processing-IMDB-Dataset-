@@ -76,8 +76,7 @@ Businesses and streaming platforms rely heavily on customer feedback. However, m
 
 ### 1. Clone the Repository  
 ```bash
-[git clone https://github.com/emmanueljirehb/NLP-Text-Processing-using-IMDB-Dataset.git
-cd NLP-Text-Processing-using-IMDB-Dataset](https://github.com/Kirtikesh157/NLP-Text-Processing-IMDB-Dataset-.git)
+(https://github.com/Kirtikesh157/NLP-Text-Processing-IMDB-Dataset-.git)
 ````
 
 ### 2. Install Dependencies
